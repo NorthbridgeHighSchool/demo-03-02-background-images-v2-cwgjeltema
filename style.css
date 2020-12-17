@@ -1,0 +1,19 @@
+html.Cities {
+  background-image: url(newyorkcity.jpg);
+  background-repeat: no-repeat;
+}
+html.LosAngeles {
+  background-image: url(la.jpg);
+  background-repeat: no-repeat;
+}
+html.NewYorkCity {
+  background-image: url(nyc.jpg);
+  background-repeat: no-repeat;
+}
+html.Toronto {
+  background-image: url(toronto.jpg);
+  background-repeat: no-repeat;
+}
+.textblock {
+  background-color: rgb(65, 14, 206)
+}
